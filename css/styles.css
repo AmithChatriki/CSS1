@@ -54,7 +54,7 @@ hr {
 .skillll {
   width: 20%;
   float: right;
-
+  padding-left: 20px;
 }
 
 .skill-row {
